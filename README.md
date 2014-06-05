@@ -1,0 +1,3 @@
+# In the beginning...
+
+There was Rails. And it was good.
